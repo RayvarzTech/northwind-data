@@ -1,0 +1,11 @@
+{
+  "name": "northwind-data",
+  "version": "2.1.0",
+  "main": "dist/northwind-data.js",
+  "scripts": {
+    "compile": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.22.1"
+  }
+}
